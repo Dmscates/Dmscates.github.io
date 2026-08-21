@@ -1,0 +1,73 @@
+---
+title: "Curriculum Vitae"
+toc: false
+---
+::: {.cv-head}
+**Daniel Scates**  
+Department of Political Science · University of California, Davis  
+[dmscates@ucdavis.edu](mailto:dmscates@ucdavis.edu)
+:::
+
+## Academic position
+
+**PhD Candidate in Political Science**, University of California, Davis, 2021–present  
+Expected completion: June 2027
+
+## Fields
+
+Immigration Politics · Comparative Politics · International Relations
+
+## Education
+
+**BA: International Relations, Economics, and Russian. Minor in Mathematics**, University of California, Davis 2021
+
+## Teaching
+
+**Instructor:** Comparative Electoral Systems, SSII 2024  
+**Teaching assistant:** 
+- With Sections: Introduction to International Relations, Introduction to Comparative Politics, Eastern European Politics
+- Without Sections: German Politics, Politics of Inequality, Comparative Electoral Systems, Development Aid, International Organizations, Scientific Study of War, Local Politics, America Decides!
+
+## Awards and fellowships
+
+- Economics Department Citation for Outstanding Work in Economics (2021)
+- Russian Department Outstanding Student Award (2021)
+- Political Science Department Citation for Achievement in International Relations (2021)
+- Bacon Award for Outstanding Incoming Graduate Student (2021)
+- Summer Collaborative Grant (2023)
+- ISA West Emerging Scholars Forum (2024)
+- Russell J. and Dorothy. S. Bilinski Fellowship (2026-2027)
+- GESIS Funded Research Stay (2026)
+
+## Publications
+
+- Brodeur, A., Mikola, D., Cook, N., Fiala, L., Brailey, T., Briggs, R., de Gendre, A., Dupraz, Y., Gabani, J., Gauriot, R., Haddad, J., Lima, G., Ankel-Peters, J., Dreber, A., Campbell, D., Kattan, L., Fages, D. M., Mierisch, F., Sun, P., ... Forshaw, R. (Accepted/In press). Computational Reproducibility and Robustness of Empirical Economics and Political Science Research. Nature
+  - Contributed with Institute for Replication Discussion Paper   Series no. 36: “Flight to Safety: COVID-Induced Changes in the Intensity of Status Quo Preference and Voting Behavior: A comment on Bisbee and Honig”. Coauthored with Alice Malmburg. 2023
+
+## Working Papers
+
+- "Commuting and Contact: The Spatial Effect of Ukrainian Refugees on Voting in Estonia"
+
+- "Do Perceptions of Deservingness for One Group of War-Time Migrants Generalize to Other War-Time Migrants?"
+
+- "Ukraine’s Conflict Resiliency: How Nonviolent Action Builds Informal Civil Support Networks." With Jaime Jackson
+
+- "Beyond the locality: How exposure to Ukrainian refugees diffuses across space and shapes far-right support in Germany." With Carolin Ehlers
+
+- "How has support for Ukrainian refugees in Germany changed over time?" With Carolin Ehlers
+
+- "Terrorism, Trafficking, Organized Crime, and the Governance of Nontraditional Threats: Introducing the Transnational Security Cooperation Agreement Dataset (TSCAD)." With Brandon Kinne, Timea Balogh, and others
+
+## Presentations
+
+Midwest Political Science Association (2024, 2025, 2026); International Studies Association West (2024); European Political Science Society (2026)
+
+## Prior Employment
+- Undergraduate Researcher: Economics Department, UC Davis (2020-2022)
+- Internship at Top-Down Analytics (April 2021 - Sept 2021, April 2022 - Sept 2022)
+-Graduate Research Assistant (Summer 2023)
+
+## Skills
+- Languages: English, Russian (Intermediate reading, some spoken)
+- Coding/Surveys: R, Stata, LaTeX, GeoDa, Maoz Network Program, Qualtrics, Sawtooth, Excel, Powerpoint
+- Methods: Design-based causal inference, Difference-in-differences, Instrumental variable design, Spatial econometrics, Network analysis, Conjoint anaysis, Survey experiments, Game theory
