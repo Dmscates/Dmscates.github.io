@@ -3,9 +3,10 @@
   --mc-blue: blue;
   --mc-paper: #f7f3eb;
   --mc-black: black;
+  --mc-grey: grey;
 }
 
-body { color: blue; }
+body { color: grey; }
 .navbar { background: var(--mc-gold); }
 .navbar-title { font-family: Georgia, serif; font-weight: 700; }
 h1, h2, h3 { font-family: Georgia, "Times New Roman", serif; color: var(--mc-black); }
@@ -30,7 +31,7 @@ h1, h2, h3 { font-family: Georgia, "Times New Roman", serif; color: var(--mc-bla
 .btn-outline-primary { color: var(--mc-black); border-color: var(--mc-black); }
 .market-note { padding: 1rem 1.25rem; border-left: 4px solid var(--mc-blue); background: #f1ece3; margin: 2rem 0 3rem; }
 .research-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 1rem; }
-.research-card { padding: 1.2rem; background: var(--mc-paper); border-top: 3px solid var(--mc-blue); }
+.research-card { padding: 1.2rem; background: var(--mc-paper); border-top: 3px solid var(--mc-grey); }
 .research-card h4 { color: var(--mc-black); }
 .cv-head { border-bottom: 2px solid var(--mc-gold); padding-bottom: 1.5rem; margin-bottom: 2rem; }
 blockquote { border-left-color: var(--mc-gold); color: --mc-black; }

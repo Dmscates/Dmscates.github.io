@@ -25,7 +25,7 @@ Immigration Politics · Comparative Politics · International Relations
 
 **Instructor:** Comparative Electoral Systems, SSII 2024  
 **Teaching assistant:** 
-- With Sections: Introduction to International Relations, Introduction to Comparative Politics, Eastern European Politics
+- Taught Discussion Sections: Introduction to International Relations, Introduction to Comparative Politics, Eastern European Politics.
 - Without Sections: German Politics, Politics of Inequality, Comparative Electoral Systems, Development Aid, International Organizations, Scientific Study of War, Local Politics, America Decides!
 
 ## Awards and fellowships
@@ -41,22 +41,20 @@ Immigration Politics · Comparative Politics · International Relations
 
 ## Publications
 
-- Brodeur, A., Mikola, D., Cook, N., Fiala, L., Brailey, T., Briggs, R., de Gendre, A., Dupraz, Y., Gabani, J., Gauriot, R., Haddad, J., Lima, G., Ankel-Peters, J., Dreber, A., Campbell, D., Kattan, L., Fages, D. M., Mierisch, F., Sun, P., ... Forshaw, R. (Accepted/In press). Computational Reproducibility and Robustness of Empirical Economics and Political Science Research. Nature
-  - Contributed with Institute for Replication Discussion Paper   Series no. 36: “Flight to Safety: COVID-Induced Changes in the Intensity of Status Quo Preference and Voting Behavior: A comment on Bisbee and Honig”. Coauthored with Alice Malmburg. 2023
+- Brodeur, A., Mikola, D., Cook, N., Fiala, L., Brailey, T., Briggs, R., de Gendre, A., Dupraz, Y., Gabani, J., Gauriot, R., Haddad, J., Lima, G., Ankel-Peters, J., Dreber, A., Campbell, D., Kattan, L., Fages, D. M., Mierisch, F., Sun, P., ... Forshaw, R. (Accepted/In press). Computational Reproducibility and Robustness of Empirical Economics and Political Science Research. Nature.
+  - Contributed with Institute for Replication Discussion Paper   Series no. 36: “Flight to Safety: COVID-Induced Changes in the Intensity of Status Quo Preference and Voting Behavior: A comment on Bisbee and Honig”. Coauthored with Alice Malmburg. 2023.
 
 ## Working Papers
 
+- "Terrorism, Trafficking, Organized Crime, and the Governance of Nontraditional Threats: Introducing the Transnational Security Cooperation Agreement Dataset (TSCAD)." With Brandon Kinne, Timea Balogh, and others.
+
 - "Commuting and Contact: The Spatial Effect of Ukrainian Refugees on Voting in Estonia"
 
-- "Do Perceptions of Deservingness for One Group of War-Time Migrants Generalize to Other War-Time Migrants?"
+- "Ukraine’s Conflict Resiliency: How Nonviolent Action Builds Informal Civil Support Networks." With Jaime Jackson 
 
-- "Ukraine’s Conflict Resiliency: How Nonviolent Action Builds Informal Civil Support Networks." With Jaime Jackson
+- "Beyond the locality: How exposure to Ukrainian refugees diffuses across space and shapes far-right support in Germany." With Carolin Ehlers. 
 
-- "Beyond the locality: How exposure to Ukrainian refugees diffuses across space and shapes far-right support in Germany." With Carolin Ehlers
-
-- "How has support for Ukrainian refugees in Germany changed over time?" With Carolin Ehlers
-
-- "Terrorism, Trafficking, Organized Crime, and the Governance of Nontraditional Threats: Introducing the Transnational Security Cooperation Agreement Dataset (TSCAD)." With Brandon Kinne, Timea Balogh, and others
+- "How has support for Ukrainian refugees in Germany changed over time?" With Carolin Ehlers.
 
 ## Presentations
 

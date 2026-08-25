@@ -4,14 +4,14 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "My core teaching objectives are to teach students how to read and understand political science research, continue learning after they finish my course, critically evaluate the content they consume, and to apply political science concepts to the real world."
+    "text": "My core teaching objectives are to teach students how to read and understand political science research, critically evaluate the content they consume, and to apply political science concepts to the real world."
   },
   {
     "objectID": "teaching.html#teaching-philosophy",
     "href": "teaching.html#teaching-philosophy",
     "title": "Teaching",
     "section": "",
-    "text": "My core teaching objectives are to teach students how to read and understand political science research, continue learning after they finish my course, critically evaluate the content they consume, and to apply political science concepts to the real world."
+    "text": "My core teaching objectives are to teach students how to read and understand political science research, critically evaluate the content they consume, and to apply political science concepts to the real world."
   },
   {
     "objectID": "teaching.html#instructor-of-record",
@@ -32,14 +32,14 @@
     "href": "index.html",
     "title": "Daniel Scates",
     "section": "",
-    "text": "My work focuses on public attitudes towards immigration and support for populist radical right parties. I am particularly interested in the diffusion of information across space, and how mobility and social networks shape public attitudes towards immigration. I use a mixture of econometric and political psychological approaches in my research.\nI have teaching experience in comparative politics and international relations, and have additional background in Central and Eastern European politics and conflict studies.\nAs hobbies, I have played clarinet for over 15 years, and practice historical fencing. I love collecting teas and coffees, and am always happy to share a cup with anyone who asks.\nResearch Curriculum vitae"
+    "text": "I study how mobility, social networks, and intergroup contact shape attitudes toward immigrants and refugees using spatial causal inference and survey experiments. My work primarily focuses on public attitudes towards immigration and support for far-right parties. I am particularly interested in the diffusion of information across space, and how mobility and social networks shape public attitudes towards immigration. I use a mixture of econometrics and political psychology approaches in my research.\nI have teaching experience in comparative politics and international relations, both at the lower division and upper division level. I have additional background in Central and Eastern European politics and conflict studies.\nAs hobbies, I have played clarinet for over 15 years, and practice historical fencing. I love collecting and sharing teas and coffees.\nResearch Curriculum vitae"
   },
   {
     "objectID": "index.html#job-market-paper",
     "href": "index.html#job-market-paper",
     "title": "Daniel Scates",
     "section": "Job market paper",
-    "text": "Job market paper\n\nCommuting and Contact: The Spatial Effect of Ukrainian Refugees on Voting in Estonia\nAbstract. Prior work shows that refugees can affect voting behavior in the receiving country. While Russia’s invasion of Ukraine triggered one of the largest forced displacements in recent memory, little is known about how this influx shaped voting. I examine its effect on voting in Estonia’s 2023 parliamentary election, a case where shared historical experience may produce a decline in support for nativist parties. Utilizing a spatial difference-in-differences approach using commuting networks to model inter-municipality connections, I find that vote shares for the one nativist party party declined in municipalities more exposed to Ukrainian refugees via commuting networks, while vote shares for the governing, pro-refugee party increased. These findings highlight that case-specific factors impact the response to refugees, and that attitudes towards refugees are not purely locally driven..\nFields: Immigration attitudes · Comparative Politics · International Relations"
+    "text": "Job market paper\n\nCommuting and Contact: The Spatial Effect of Ukrainian Refugees on Voting in Estonia\nAbstract. Prior work shows that refugees can affect voting behavior in the receiving country. While Russia’s invasion of Ukraine triggered one of the largest forced displacements in recent memory, little is known about how this influx shaped voting. I examine its effect on voting in Estonia’s 2023 parliamentary election, a case where shared historical experience may produce a decline in support for nativist parties. Utilizing a spatial difference-in-differences approach using commuting networks to model inter-municipality connections, I find that vote shares for the one nativist party declined in municipalities more exposed to Ukrainian refugees via commuting networks, while vote shares for the governing, pro-refugee party increased. These findings highlight that case-specific factors impact the response to refugees, and that attitudes towards refugees are not purely locally driven.\nFields: Immigration attitudes · Comparative Politics · International Relations"
   },
   {
     "objectID": "cv.html",
@@ -74,7 +74,7 @@
     "href": "cv.html#teaching",
     "title": "Curriculum Vitae",
     "section": "Teaching",
-    "text": "Teaching\nInstructor: Comparative Electoral Systems, SSII 2024\nTeaching assistant: - With Sections: Introduction to International Relations, Introduction to Comparative Politics, Eastern European Politics - Without Sections: German Politics, Politics of Inequality, Comparative Electoral Systems, Development Aid, International Organizations, Scientific Study of War, Local Politics, America Decides!"
+    "text": "Teaching\nInstructor: Comparative Electoral Systems, SSII 2024\nTeaching assistant: - Taught Discussion Sections: Introduction to International Relations, Introduction to Comparative Politics, Eastern European Politics. - Without Sections: German Politics, Politics of Inequality, Comparative Electoral Systems, Development Aid, International Organizations, Scientific Study of War, Local Politics, America Decides!"
   },
   {
     "objectID": "cv.html#awards-and-fellowships",
@@ -88,14 +88,14 @@
     "href": "cv.html#publications",
     "title": "Curriculum Vitae",
     "section": "Publications",
-    "text": "Publications\n\nBrodeur, A., Mikola, D., Cook, N., Fiala, L., Brailey, T., Briggs, R., de Gendre, A., Dupraz, Y., Gabani, J., Gauriot, R., Haddad, J., Lima, G., Ankel-Peters, J., Dreber, A., Campbell, D., Kattan, L., Fages, D. M., Mierisch, F., Sun, P., … Forshaw, R. (Accepted/In press). Computational Reproducibility and Robustness of Empirical Economics and Political Science Research. Nature\n\nContributed with Institute for Replication Discussion Paper Series no. 36: “Flight to Safety: COVID-Induced Changes in the Intensity of Status Quo Preference and Voting Behavior: A comment on Bisbee and Honig”. Coauthored with Alice Malmburg. 2023"
+    "text": "Publications\n\nBrodeur, A., Mikola, D., Cook, N., Fiala, L., Brailey, T., Briggs, R., de Gendre, A., Dupraz, Y., Gabani, J., Gauriot, R., Haddad, J., Lima, G., Ankel-Peters, J., Dreber, A., Campbell, D., Kattan, L., Fages, D. M., Mierisch, F., Sun, P., … Forshaw, R. (Accepted/In press). Computational Reproducibility and Robustness of Empirical Economics and Political Science Research. Nature.\n\nContributed with Institute for Replication Discussion Paper Series no. 36: “Flight to Safety: COVID-Induced Changes in the Intensity of Status Quo Preference and Voting Behavior: A comment on Bisbee and Honig”. Coauthored with Alice Malmburg. 2023."
   },
   {
     "objectID": "cv.html#working-papers",
     "href": "cv.html#working-papers",
     "title": "Curriculum Vitae",
     "section": "Working Papers",
-    "text": "Working Papers\n\n“Commuting and Contact: The Spatial Effect of Ukrainian Refugees on Voting in Estonia”\n“Do Perceptions of Deservingness for One Group of War-Time Migrants Generalize to Other War-Time Migrants?”\n“Ukraine’s Conflict Resiliency: How Nonviolent Action Builds Informal Civil Support Networks.” With Jaime Jackson\n“Beyond the locality: How exposure to Ukrainian refugees diffuses across space and shapes far-right support in Germany.” With Carolin Ehlers\n“How has support for Ukrainian refugees in Germany changed over time?” With Carolin Ehlers\n“Terrorism, Trafficking, Organized Crime, and the Governance of Nontraditional Threats: Introducing the Transnational Security Cooperation Agreement Dataset (TSCAD).” With Brandon Kinne, Timea Balogh, and others"
+    "text": "Working Papers\n\n“Terrorism, Trafficking, Organized Crime, and the Governance of Nontraditional Threats: Introducing the Transnational Security Cooperation Agreement Dataset (TSCAD).” With Brandon Kinne, Timea Balogh, and others.\n“Commuting and Contact: The Spatial Effect of Ukrainian Refugees on Voting in Estonia”\n“Ukraine’s Conflict Resiliency: How Nonviolent Action Builds Informal Civil Support Networks.” With Jaime Jackson\n“Beyond the locality: How exposure to Ukrainian refugees diffuses across space and shapes far-right support in Germany.” With Carolin Ehlers.\n“How has support for Ukrainian refugees in Germany changed over time?” With Carolin Ehlers."
   },
   {
     "objectID": "cv.html#presentations",
@@ -123,21 +123,21 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Status: Job Market Paper; Presented at MPSA 2025 and EPSS 2026\nPrior work shows that refugees can affect voting behavior in the receiving country. While Russia’s invasion of Ukraine triggered one of the largest forced displacements in recent memory, little is known about how this influx shaped voting. I examine its effect on voting in Estonia’s 2023 parliamentary election, a case where shared historical experience may produce a decline in support for nativist parties. Utilizing a spatial difference-in-differences approach using commuting networks to model inter-municipality connections, I find that vote shares for the one nativist party party declined in municipalities more exposed to Ukrainian refugees via commuting networks, while vote shares for the governing, pro-refugee party increased. These findings highlight that case-specific factors impact the response to refugees, and that attitudes towards refugees are not purely locally driven."
+    "text": "Status: Job Market Paper; Presented at MPSA 2025 and EPSS 2026; Complete manuscript.\nPrior work shows that refugees can affect voting behavior in the receiving country. While Russia’s invasion of Ukraine triggered one of the largest forced displacements in recent memory, little is known about how this influx shaped voting. I examine its effect on voting in Estonia’s 2023 parliamentary election, a case where shared historical experience may produce a decline in support for nativist parties. Utilizing a spatial difference-in-differences approach using commuting networks to model inter-municipality connections, I find that vote shares for the one nativist party declined in municipalities more exposed to Ukrainian refugees via commuting networks, while vote shares for the governing, pro-refugee party increased. These findings highlight that case-specific factors impact the response to refugees, and that attitudes towards refugees are not purely locally driven."
   },
   {
     "objectID": "research.html#job-market-paper",
     "href": "research.html#job-market-paper",
     "title": "Research",
     "section": "",
-    "text": "Status: Job Market Paper; Presented at MPSA 2025 and EPSS 2026\nPrior work shows that refugees can affect voting behavior in the receiving country. While Russia’s invasion of Ukraine triggered one of the largest forced displacements in recent memory, little is known about how this influx shaped voting. I examine its effect on voting in Estonia’s 2023 parliamentary election, a case where shared historical experience may produce a decline in support for nativist parties. Utilizing a spatial difference-in-differences approach using commuting networks to model inter-municipality connections, I find that vote shares for the one nativist party party declined in municipalities more exposed to Ukrainian refugees via commuting networks, while vote shares for the governing, pro-refugee party increased. These findings highlight that case-specific factors impact the response to refugees, and that attitudes towards refugees are not purely locally driven."
+    "text": "Status: Job Market Paper; Presented at MPSA 2025 and EPSS 2026; Complete manuscript.\nPrior work shows that refugees can affect voting behavior in the receiving country. While Russia’s invasion of Ukraine triggered one of the largest forced displacements in recent memory, little is known about how this influx shaped voting. I examine its effect on voting in Estonia’s 2023 parliamentary election, a case where shared historical experience may produce a decline in support for nativist parties. Utilizing a spatial difference-in-differences approach using commuting networks to model inter-municipality connections, I find that vote shares for the one nativist party declined in municipalities more exposed to Ukrainian refugees via commuting networks, while vote shares for the governing, pro-refugee party increased. These findings highlight that case-specific factors impact the response to refugees, and that attitudes towards refugees are not purely locally driven."
   },
   {
     "objectID": "research.html#working-papers",
     "href": "research.html#working-papers",
     "title": "Research",
     "section": "Working papers",
-    "text": "Working papers\n\n- Ukraine’s Conflict Resiliency: How Nonviolent Action Builds Informal Civil Support Networks.\nWith Jaime Jackson. Presented at ISA West 2024 Emerging Scholars Forum.\n\n\n- Do Perceptions of Deservingness for One Group of War-Time Migrants Generalize to Other War-Time Migrants?\nPilot study conducted at UC Davis in 2026\n\n\n- Beyond the locality: How exposure to Ukrainian refugees diffuses across space and shapes far-right support in Germany\nWith Carolin Ehlers\n\n\n- How has support for Ukrainian refugees in Germany changed over time?\nWith Carolin Ehlers\n\n\n- Public Attitudes Towards the Admittance and Granting of State Benefits to Survival Migrants\n\n\n- Terrorism, Trafficking, Organized Crime, and the Governance of Nontraditional Threats: Introducing the Transnational Security Cooperation Agreement Dataset (TSCAD)\nWith Brandon Kinne, Timea Balogh, and others"
+    "text": "Working papers\n\n- Terrorism, Trafficking, Organized Crime, and the Governance of Nontraditional Threats: Introducing the Transnational Security Cooperation Agreement Dataset (TSCAD)\nWith Brandon Kinne, Timea Balogh, and others. Complete manuscript.\n\n\n- Beyond the locality: How exposure to Ukrainian refugees diffuses across space and shapes far-right support in Germany\nWith Carolin Ehlers. In progress.\n\n\n- How has support for Ukrainian refugees in Germany changed over time?\nWith Carolin Ehlers. In progress.\n\n\n- Ukraine’s Conflict Resiliency: How Nonviolent Action Builds Informal Civil Support Networks.\nWith Jaime Jackson. Presented at ISA West 2024 Emerging Scholars Forum. In progress.\n\n\n- Do Perceptions of Deservingness for One Group of War-Time Migrants Generalize to Other War-Time Migrants?\nPilot study conducted at UC Davis in 2026. Planned.\n\n\n- Public Attitudes Towards the Admittance and Granting of State Benefits to Survival Migrants\nPlanned."
   },
   {
     "objectID": "research.html#publications",
@@ -151,6 +151,6 @@
     "href": "research.html#research-statement",
     "title": "Research",
     "section": "Research statement",
-    "text": "Research statement\nMy work primarily focuses on how attitudes towards refugees are formed. I currently have two main branches to my work. First, I work on understanding how information about refugees is transmitted across space, and how the spatial spillovers this transmission causes influences political attitudes. Second, I am interested in understanding the impacts of intergroup contact between natives and refugees, and how intergroup threat narratives mediate this relationship. In future work, I also plan to study the impact of refugee integration on public attitudes towards refugees. Overall, my agenda hopes to learn more the many factors that influence support for refugees, and, through doing so, find policies that can promote public support for and integration of refugee populations."
+    "text": "Research statement\nMy work primarily focuses on how attitudes towards refugees are formed. I currently have two main branches to my work. First, I study how information about refugees is transmitted across space, and how the associated spatial spillovers influence political attitudes. Second, I am interested in understanding the impacts of intergroup contact between natives and refugees, and how intergroup threat narratives mediate this relationship. In future work, I also plan to study the impact of refugee integration on support for refugees. Overall, my agenda hopes to learn more the many factors that influence support for refugees."
   }
 ]

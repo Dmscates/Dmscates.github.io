@@ -7,34 +7,39 @@ description: "Working papers and research in progress"
 
 ### Commuting and Contact: The Spatial Effect of Ukrainian Refugees on Voting in Estonia
 
-**Status:** Job Market Paper; Presented at MPSA 2025 and EPSS 2026
+**Status:** Job Market Paper; Presented at MPSA 2025 and EPSS 2026; Complete manuscript.
 
-Prior work shows that refugees can affect voting behavior in the receiving country. While Russia’s invasion of Ukraine triggered one of the largest forced displacements in recent memory, little is known about how this influx shaped voting. I examine its effect on voting in Estonia's 2023 parliamentary election, a case where shared historical experience may produce a decline in support for nativist parties. Utilizing a spatial difference-in-differences approach using commuting networks to model inter-municipality connections, I find that vote shares for the one nativist party party declined in municipalities more exposed to Ukrainian refugees via commuting networks, while vote shares for the governing, pro-refugee party increased. These findings highlight that case-specific factors impact the response to refugees, and that attitudes towards refugees are not purely locally driven.
+Prior work shows that refugees can affect voting behavior in the receiving country. While Russia’s invasion of Ukraine triggered one of the largest forced displacements in recent memory, little is known about how this influx shaped voting. I examine its effect on voting in Estonia's 2023 parliamentary election, a case where shared historical experience may produce a decline in support for nativist parties. Utilizing a spatial difference-in-differences approach using commuting networks to model inter-municipality connections, I find that vote shares for the one nativist party declined in municipalities more exposed to Ukrainian refugees via commuting networks, while vote shares for the governing, pro-refugee party increased. These findings highlight that case-specific factors impact the response to refugees, and that attitudes towards refugees are not purely locally driven.
 
 ## Working papers
 
+### - Terrorism, Trafficking, Organized Crime, and the Governance of Nontraditional Threats: Introducing the Transnational Security Cooperation Agreement Dataset (TSCAD)
+
+*With Brandon Kinne, Timea Balogh, and others.* Complete manuscript.
+
+
+### - Beyond the locality: How exposure to Ukrainian refugees diffuses across space and shapes far-right support in Germany
+
+*With Carolin Ehlers.* In progress.
+
+### - How has support for Ukrainian refugees in Germany changed over time?
+
+*With Carolin Ehlers.* In progress.
+
 ### -	Ukraine’s Conflict Resiliency: How Nonviolent Action Builds Informal Civil Support Networks. 
 
-*With Jaime Jackson.* Presented at ISA West 2024 Emerging Scholars Forum.
+*With Jaime Jackson.* Presented at ISA West 2024 Emerging Scholars Forum. In progress.
 
 
 ### -	Do Perceptions of Deservingness for One Group of War-Time Migrants Generalize to Other War-Time Migrants?
 
-Pilot study conducted at UC Davis in 2026
+Pilot study conducted at UC Davis in 2026. Planned.
 
-### - Beyond the locality: How exposure to Ukrainian refugees diffuses across space and shapes far-right support in Germany
-
-*With Carolin Ehlers*
-
-### - How has support for Ukrainian refugees in Germany changed over time?
-
-*With Carolin Ehlers*
 
 ### - Public Attitudes Towards the Admittance and Granting of State Benefits to Survival Migrants
 
-### - Terrorism, Trafficking, Organized Crime, and the Governance of Nontraditional Threats: Introducing the Transnational Security Cooperation Agreement Dataset (TSCAD)
+Planned.
 
-*With Brandon Kinne, Timea Balogh, and others*
 
 ## Publications
 
@@ -44,4 +49,4 @@ Pilot study conducted at UC Davis in 2026
 
 ## Research statement
 
-My work primarily focuses on how attitudes towards refugees are formed. I currently have two main branches to my work. First, I work on understanding how information about refugees is transmitted across space, and how the spatial spillovers this transmission causes influences political attitudes. Second, I am interested in understanding the impacts of intergroup contact between natives and refugees, and how intergroup threat narratives mediate this relationship. In future work, I also plan to study the impact of refugee integration on public attitudes towards refugees. Overall, my agenda hopes to learn more the many factors that influence support for refugees, and, through doing so, find policies that can promote public support for and integration of refugee populations.
+My work primarily focuses on how attitudes towards refugees are formed. I currently have two main branches to my work. First, I study how information about refugees is transmitted across space, and how the associated spatial spillovers influence political attitudes. Second, I am interested in understanding the impacts of intergroup contact between natives and refugees, and how intergroup threat narratives mediate this relationship. In future work, I also plan to study the impact of refugee integration on support for refugees. Overall, my agenda hopes to learn more the many factors that influence support for refugees.
