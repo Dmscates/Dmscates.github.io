@@ -36,11 +36,6 @@ Prior work shows that refugees can affect voting behavior in the receiving count
 Pilot study conducted at UC Davis in 2026. Planned.
 
 
-### - Public Attitudes Towards the Admittance and Granting of State Benefits to Survival Migrants
-
-Planned.
-
-
 ## Publications
 
 ### - Brodeur, A., Mikola, D., Cook, N., Fiala, L., Brailey, T., Briggs, R., de Gendre, A., Dupraz, Y., Gabani, J., Gauriot, R., Haddad, J., Lima, G., Ankel-Peters, J., Dreber, A., Campbell, D., Kattan, L., Fages, D. M., Mierisch, F., Sun, P., ... Forshaw, R. (Accepted/In press). Computational Reproducibility and Robustness of Empirical Economics and Political Science Research. Nature

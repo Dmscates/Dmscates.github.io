@@ -30,8 +30,5 @@ As hobbies, I have played clarinet for over 15 years, and practice historical fe
 
 **Abstract.** Prior work shows that refugees can affect voting behavior in the receiving country. While Russia’s invasion of Ukraine triggered one of the largest forced displacements in recent memory, little is known about how this influx shaped voting. I examine its effect on voting in Estonia's 2023 parliamentary election, a case where shared historical experience may produce a decline in support for nativist parties. Utilizing a spatial difference-in-differences approach using commuting networks to model inter-municipality connections, I find that vote shares for the one nativist party declined in municipalities more exposed to Ukrainian refugees via commuting networks, while vote shares for the governing, pro-refugee party increased. These findings highlight that case-specific factors impact the response to refugees, and that attitudes towards refugees are not purely locally driven.
 
-<<<<<<< HEAD
 **Fields:** Immigration Attitudes · Spatial Modeling · Comparative Politics · International Relations  
-=======
-**Fields:** Immigration attitudes · Comparative Politics · International Relations  
->>>>>>> ac10e0945ab2161118cf9099a7010f175b7aff2c
+
