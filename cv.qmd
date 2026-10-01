@@ -20,11 +20,14 @@ Immigration Politics · Spatial Modeling · Comparative Politics · Internationa
 
 ## Education
 
-**BA: International Relations, Economics, and Russian. Minor in Mathematics**, University of California, Davis 2021
+**BA: International Relations, Economics, and Russian; Minor in Mathematics**. University of California, Davis (2021)
 
 ## Teaching
 
-**Instructor:** Comparative Electoral Systems, SSII 2024  
+**Instructor:** 
+
+- Comparative Electoral Systems (2024)  
+
 **Teaching assistant:** 
 
 - Taught Discussion Sections: Introduction to International Relations, Introduction to Comparative Politics, Eastern European Politics.
@@ -33,14 +36,14 @@ Immigration Politics · Spatial Modeling · Comparative Politics · Internationa
 
 ## Awards and fellowships
 
+- Russell J. and Dorothy. S. Bilinski Fellowship (2026-2027)
+- GESIS Funded Research Stay (2026)
+- ISA West Emerging Scholars Forum (2024)
+- Summer Collaborative Research Grant (2023)
+- Bacon Award for Outstanding Incoming Graduate Student (2021)
 - Economics Department Citation for Outstanding Work in Economics (2021)
 - Russian Department Outstanding Student Award (2021)
 - Political Science Department Citation for Achievement in International Relations (2021)
-- Bacon Award for Outstanding Incoming Graduate Student (2021)
-- Summer Collaborative Grant (2023)
-- ISA West Emerging Scholars Forum (2024)
-- Russell J. and Dorothy. S. Bilinski Fellowship (2026-2027)
-- GESIS Funded Research Stay (2026)
 
 ## Publications
 
@@ -61,14 +64,32 @@ In preparation for submission
 
 ## Presentations
 
-Midwest Political Science Association (2024, 2025, 2026); International Studies Association West (2024); European Political Science Society (2026); UC Davis Global Migration Center (2026)
+- European Political Science Society (2026)
+
+- Midwest Political Science Association (2024, 2025, 2026)
+
+- UC Davis Global Migration Center (2026)
+
+- International Studies Association West (2024)
 
 ## Prior Employment
-- Undergraduate Researcher: Economics Department, UC Davis (2020-2022)
+
+- Teaching Instructor (2022-2026)
+
+- Graduate Research Assistant (Summer 2023)
+
 - Internship at Top-Down Analytics (April 2021 - Sept 2021, April 2022 - Sept 2022)
--Graduate Research Assistant (Summer 2023)
+
+- Undergraduate Researcher: Economics Department, UC Davis (2020-2022)
+
 
 ## Skills
+
 - Languages: English, Russian (Intermediate reading, some spoken)
+
 - Coding/Surveys: R, Stata, LaTeX, GeoDa, Maoz Network Program, Qualtrics, Sawtooth, Excel, Powerpoint
-- Methods: Design-based causal inference, Difference-in-differences, Instrumental variable design, Spatial econometrics, Network analysis, Conjoint anaysis, Survey experiments, Game theory
+
+- Methods: Design-based causal inference, Difference-in-differences, Hierarchical models, Instrumental variable design, Spatial econometrics, Network analysis, Conjoint anaysis, Survey experiments, Game theory
+
+
+<!-- This is some hidden comment #References:[//]: # -	**Professor Jeannette Money** (Dissertation Chair) — University of California, Davis. One Shields Avenue, Davis, CA, 95616. jnmoney@ucdavis.edu. +1 (916) 952-2193.[//]: # - **Professor Emeritus Josephine Andrews** (Dissertation Committee) — University of California, Davis. One Shields Avenue, Davis, CA, 95616. jtandrews@ucdavis.edu. +1 (530) 601-0014.[//]: # -	**Assistant Professor Hanno Hilbig** (Dissertation Committee) — University of California, Davis. One Shields Avenue, Davis, CA, 95616. hhilbig@ucdavis.edu. +1 (510) 630-9982.-->
