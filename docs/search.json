@@ -39,22 +39,14 @@
     "href": "index.html#job-market-paper",
     "title": "Daniel Scates",
     "section": "Job market paper",
-<<<<<<< HEAD
-    "text": "Job market paper\n\nCommuting and Contact: The Spatial Effect of Ukrainian Refugees on Voting in Estonia\nAbstract. Prior work shows that refugees can affect voting behavior in the receiving country. While Russia’s invasion of Ukraine triggered one of the largest forced displacements in recent memory, little is known about how this influx shaped voting. I examine its effect on voting in Estonia’s 2023 parliamentary election, a case where shared historical experience may produce a decline in support for nativist parties. Utilizing a spatial difference-in-differences approach using commuting networks to model inter-municipality connections, I find that vote shares for the one nativist party declined in municipalities more exposed to Ukrainian refugees via commuting networks, while vote shares for the governing, pro-refugee party increased. These findings highlight that case-specific factors impact the response to refugees, and that attitudes towards refugees are not purely locally driven.\nFields: Immigration Attitudes · Spatial Modeling · Comparative Politics · International Relations"
-=======
-    "text": "Job market paper\n\nCommuting and Contact: The Spatial Effect of Ukrainian Refugees on Voting in Estonia\nAbstract. Prior work shows that refugees can affect voting behavior in the receiving country. While Russia’s invasion of Ukraine triggered one of the largest forced displacements in recent memory, little is known about how this influx shaped voting. I examine its effect on voting in Estonia’s 2023 parliamentary election, a case where shared historical experience may produce a decline in support for nativist parties. Utilizing a spatial difference-in-differences approach using commuting networks to model inter-municipality connections, I find that vote shares for the one nativist party declined in municipalities more exposed to Ukrainian refugees via commuting networks, while vote shares for the governing, pro-refugee party increased. These findings highlight that case-specific factors impact the response to refugees, and that attitudes towards refugees are not purely locally driven.\nFields: Immigration attitudes · Comparative Politics · International Relations"
->>>>>>> ac10e0945ab2161118cf9099a7010f175b7aff2c
+    "text": "Job market paper\n\nCommuting and Contact: The Spatial Effect of Ukrainian Refugees on Voting in Estonia\nAbstract. Prior work shows that refugees can affect voting behavior in the receiving country. While Russia’s invasion of Ukraine triggered one of the largest forced displacements in recent memory, little is known about how this influx shaped voting. I examine its effect on voting in Estonia’s 2023 parliamentary election, a case where shared historical experience may produce a decline in support for nativist parties. Utilizing a spatial difference-in-differences approach using commuting networks to model inter-municipality connections, I find that vote shares for the one nativist party declined in municipalities more exposed to Ukrainian refugees via commuting networks, while vote shares for the governing, pro-refugee party increased. These findings highlight that case-specific factors impact the response to refugees, and that attitudes towards refugees are not purely locally driven.\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD Fields: Immigration Attitudes · Spatial Modeling · Comparative Politics · International Relations\n======= Fields: Immigration attitudes · Comparative Politics · International Relations\n&gt;&gt;&gt;&gt;&gt;&gt;&gt; ac10e0945ab2161118cf9099a7010f175b7aff2c"
   },
   {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-<<<<<<< HEAD
-    "text": "Daniel Scates\nDepartment of Political Science · University of California, Davis\ndmscates@ucdavis.edu · dmscates.github.io"
-=======
-    "text": "Daniel Scates\nDepartment of Political Science · University of California, Davis\ndmscates@ucdavis.edu"
->>>>>>> ac10e0945ab2161118cf9099a7010f175b7aff2c
+    "text": "Daniel Scates\nDepartment of Political Science · University of California, Davis\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD dmscates@ucdavis.edu · dmscates.github.io ======= dmscates@ucdavis.edu &gt;&gt;&gt;&gt;&gt;&gt;&gt; ac10e0945ab2161118cf9099a7010f175b7aff2c"
   },
   {
     "objectID": "cv.html#academic-position",
@@ -68,11 +60,7 @@
     "href": "cv.html#fields",
     "title": "Curriculum Vitae",
     "section": "Fields",
-<<<<<<< HEAD
-    "text": "Fields\nImmigration Politics · Spatial Modeling · Comparative Politics · International Relations"
-=======
-    "text": "Fields\nImmigration Politics · Comparative Politics · International Relations"
->>>>>>> ac10e0945ab2161118cf9099a7010f175b7aff2c
+    "text": "Fields\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD Immigration Politics · Spatial Modeling · Comparative Politics · International Relations ======= Immigration Politics · Comparative Politics · International Relations &gt;&gt;&gt;&gt;&gt;&gt;&gt; ac10e0945ab2161118cf9099a7010f175b7aff2c"
   },
   {
     "objectID": "cv.html#education",
@@ -86,11 +74,7 @@
     "href": "cv.html#teaching",
     "title": "Curriculum Vitae",
     "section": "Teaching",
-<<<<<<< HEAD
-    "text": "Teaching\nInstructor: Comparative Electoral Systems, SSII 2024\nTeaching assistant:\n\nTaught Discussion Sections: Introduction to International Relations, Introduction to Comparative Politics, Eastern European Politics.\nWithout Sections: German Politics, Politics of Inequality, Comparative Electoral Systems, Development Aid, International Organizations, Scientific Study of War, Local Politics, America Decides!"
-=======
-    "text": "Teaching\nInstructor: Comparative Electoral Systems, SSII 2024\nTeaching assistant: - Taught Discussion Sections: Introduction to International Relations, Introduction to Comparative Politics, Eastern European Politics. - Without Sections: German Politics, Politics of Inequality, Comparative Electoral Systems, Development Aid, International Organizations, Scientific Study of War, Local Politics, America Decides!"
->>>>>>> ac10e0945ab2161118cf9099a7010f175b7aff2c
+    "text": "Teaching\nInstructor: Comparative Electoral Systems, SSII 2024\nTeaching assistant: &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD\n\nTaught Discussion Sections: Introduction to International Relations, Introduction to Comparative Politics, Eastern European Politics.\n\n======= - Taught Discussion Sections: Introduction to International Relations, Introduction to Comparative Politics, Eastern European Politics. &gt;&gt;&gt;&gt;&gt;&gt;&gt; ac10e0945ab2161118cf9099a7010f175b7aff2c - Without Sections: German Politics, Politics of Inequality, Comparative Electoral Systems, Development Aid, International Organizations, Scientific Study of War, Local Politics, America Decides!"
   },
   {
     "objectID": "cv.html#awards-and-fellowships",
@@ -111,22 +95,14 @@
     "href": "cv.html#working-papers",
     "title": "Curriculum Vitae",
     "section": "Working Papers",
-<<<<<<< HEAD
-    "text": "Working Papers\n\n“Terrorism, Trafficking, Organized Crime, and the Governance of Nontraditional Threats: Introducing the Transnational Security Cooperation Agreement Dataset (TSCAD).” With Brandon Kinne, Timea Balogh, and others. Under Review\n“Commuting and Contact: The Spatial Effect of Ukrainian Refugees on Voting in Estonia” In preparation for submission\n“Ukraine’s Conflict Resiliency: How Nonviolent Action Builds Informal Civil Support Networks.” With Jaime Jackson\n“Beyond the locality: How exposure to Ukrainian refugees diffuses across space and shapes far-right support in Germany.” With Carolin Ehlers."
-=======
-    "text": "Working Papers\n\n“Terrorism, Trafficking, Organized Crime, and the Governance of Nontraditional Threats: Introducing the Transnational Security Cooperation Agreement Dataset (TSCAD).” With Brandon Kinne, Timea Balogh, and others.\n“Commuting and Contact: The Spatial Effect of Ukrainian Refugees on Voting in Estonia”\n“Ukraine’s Conflict Resiliency: How Nonviolent Action Builds Informal Civil Support Networks.” With Jaime Jackson\n“Beyond the locality: How exposure to Ukrainian refugees diffuses across space and shapes far-right support in Germany.” With Carolin Ehlers.\n“How has support for Ukrainian refugees in Germany changed over time?” With Carolin Ehlers."
->>>>>>> ac10e0945ab2161118cf9099a7010f175b7aff2c
+    "text": "Working Papers\n\n“Terrorism, Trafficking, Organized Crime, and the Governance of Nontraditional Threats: Introducing the Transnational Security Cooperation Agreement Dataset (TSCAD).” With Brandon Kinne, Timea Balogh, and others. &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD Under Review\n“Commuting and Contact: The Spatial Effect of Ukrainian Refugees on Voting in Estonia” In preparation for submission =======\n“Commuting and Contact: The Spatial Effect of Ukrainian Refugees on Voting in Estonia” &gt;&gt;&gt;&gt;&gt;&gt;&gt; ac10e0945ab2161118cf9099a7010f175b7aff2c\n“Ukraine’s Conflict Resiliency: How Nonviolent Action Builds Informal Civil Support Networks.” With Jaime Jackson\n“Beyond the locality: How exposure to Ukrainian refugees diffuses across space and shapes far-right support in Germany.” With Carolin Ehlers.\n\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD ## Presentations"
   },
   {
     "objectID": "cv.html#presentations",
     "href": "cv.html#presentations",
     "title": "Curriculum Vitae",
     "section": "Presentations",
-<<<<<<< HEAD
-    "text": "Presentations\nMidwest Political Science Association (2024, 2025, 2026); International Studies Association West (2024); European Political Science Society (2026); UC Davis Global Migration Center (2026)"
-=======
-    "text": "Presentations\nMidwest Political Science Association (2024, 2025, 2026); International Studies Association West (2024); European Political Science Society (2026)"
->>>>>>> ac10e0945ab2161118cf9099a7010f175b7aff2c
+    "text": "Presentations\nMidwest Political Science Association (2024, 2025, 2026); International Studies Association West (2024); European Political Science Society (2026) &gt;&gt;&gt;&gt;&gt;&gt;&gt; ac10e0945ab2161118cf9099a7010f175b7aff2c"
   },
   {
     "objectID": "cv.html#prior-employment",
